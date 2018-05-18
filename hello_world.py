@@ -4,5 +4,5 @@ print(message)
 message = "Hello Python Crash Course world!"
 print (message)
 
-Jeff = "Jeff is the man!"
+Jeff = "Jeff is a little girl!"
 print (Jeff)
